@@ -1,3 +1,7 @@
+<center>
+<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6660a597/assets/can.jpeg" width="50%" height="50%"/>
+</center>
+
 Type some more intro here...
 
 The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks.
@@ -5,6 +9,10 @@ The goal of this workshop is to bring together researchers interested in advanci
 In this workshop, we are particularly interested in how the following can be used in art and music generation: reinforcement learning, generative adversarial networks, novelty search and evaluation as well as learning from user preferences. We welcome submissions of short papers, demos and extended abstracts related to the above.
 
 There will also be an open call for a display of artworks incorporating machine learning techniques.
+
+<center>
+<img src="https://raw.githubusercontent.com/nips2017creativity/nips2017creativity.github.io/6660a597/assets/nips_logo.svg"/>
+</center>
 
 ## Keynote Talks
 
