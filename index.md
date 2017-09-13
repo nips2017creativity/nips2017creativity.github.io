@@ -22,7 +22,9 @@ List the names, and URL links to the people confirmed giving the talks.
 
 ## Call for Abstracts
 
-Type instructions here for submitting abstracts, and give them information about the NIPS abstract format. email address is nips2017creativity@gmail.com
+Type instructions here for submitting abstracts, and give them information about the NIPS abstract format.
+
+email address is nips2017creativity@gmail.com
 
 ## Call for Artwork
 
