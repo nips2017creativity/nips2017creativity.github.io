@@ -10,11 +10,17 @@ In this workshop, we are particularly interested in how the following can be use
 
 There will also be an open call for a display of artworks incorporating machine learning techniques.
 
-## Keynote Talks
+<center>
+<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="60%"/>
+</center>
+
+## Keynote Speakers
+
+[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
 
 List the names, and URL links to the people confirmed giving the talks.
 
-## Call for Submissions and Abstracts
+## Call for Abstracts
 
 Type instructions here for submitting abstracts, and give them information about the NIPS abstract format. email address is nips2017creativity@gmail.com
 
