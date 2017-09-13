@@ -1,8 +1,6 @@
 <img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6a8b4bc2/assets/real_nvp.jpeg" width="100%"/>
 _Image taken from Appendix Section of [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)_
 
-<p><br/></p>
-
 The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks.
 
 In this workshop, we are particularly interested in how the following can be used in art and music generation: reinforcement learning, generative adversarial networks, novelty search and evaluation as well as learning from user preferences. We welcome submissions of short papers, extended abstracts or demos.
