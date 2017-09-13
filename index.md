@@ -1,6 +1,7 @@
 <center>
 <img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6660a597/assets/can.jpeg" width="50%" height="50%"/>
 </center>
+(Can remove or change images)
 
 Type some more intro here...
 
