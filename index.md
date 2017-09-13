@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Machine Learning for Creativity and Design
 
-You can use the [editor on GitHub](https://github.com/nips2017creativity/nips2017creativity.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### NIPS 2017 Workshop, 8 December 2017, Long Beach, California
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Type some more intro here...
 
-### Markdown
+The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks.
+
+In this workshop, we are particularly interested in how the following can be used in art and music generation: reinforcement learning, generative adversarial networks, novelty search and evaluation as well as learning from user preferences. We welcome submissions of short papers, demos and extended abstracts related to the above.
+
+There will also be an open call for a display of artworks incorporating machine learning techniques.
+
+## Keynote Talks
+
+List the names, and URL links to the people confirmed giving the talks.
+
+## Call for Submissions and Abstracts
+
+Type instructions here for submitting abstracts, and give them information about the NIPS abstract format. email address is nips2017creativity@gmail.com
+
+## Call for Artwork
+
+Instructions or submitting artwork, and link to google form.
+
+## Schedule
+
+TBD
+
+## Organizers
+
+Douglas Eck
+David Ha
+Ali Eslami
+Sander Dieleman
+Rebecca Fiebrink
+Luba Elliot
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nips2017creativity/nips2017creativity.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
