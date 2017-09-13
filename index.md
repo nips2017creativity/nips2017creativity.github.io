@@ -1,7 +1,3 @@
-## Machine Learning for Creativity and Design
-
-### NIPS 2017 Workshop, 8 December 2017, Long Beach, California
-
 Type some more intro here...
 
 The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks.
