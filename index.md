@@ -1,9 +1,6 @@
 <center>
-<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6660a597/assets/can.jpeg" width="50%" height="50%"/>
+<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6a8b4bc2/assets/real_nvp.jpeg" width="100%"/>
 </center>
-(Can remove or change images)
-
-Type some more intro here...
 
 The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks.
 
@@ -34,10 +31,15 @@ TBD
 ## Organizers
 
 Douglas Eck
+
 David Ha
+
 Ali Eslami
+
 Sander Dieleman
+
 Rebecca Fiebrink
+
 Luba Elliot
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
