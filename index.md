@@ -9,7 +9,7 @@ In this workshop, we are particularly interested in how the following can be use
 There will also be an open call for a display of artworks incorporating machine learning techniques.
 
 <center>
-<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg"/>
+<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="60%"/>
 </center>
 
 ## Keynote Talks
