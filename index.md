@@ -1,5 +1,5 @@
 <img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6a8b4bc2/assets/real_nvp.jpeg" width="100%"/>
-*Image taken from Appendix Section of [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)*
+_Image taken from Appendix Section of [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)_
 
 <p><br/></p>
 
