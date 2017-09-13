@@ -2,8 +2,8 @@
 <img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6a8b4bc2/assets/real_nvp.jpeg" width="100%"/>
 <i>Image taken from Appendix of <a href="https://arxiv.org/abs/1605.08803">Density estimation using Real NVP
 </a>.</i>
-<br/>
 </center>
+<p><br/></p>
 
 The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks.
 
