@@ -1,4 +1,5 @@
 <img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6a8b4bc2/assets/real_nvp.jpeg" width="100%"/>
+*Image Credits: Density estimation using [Real NVP](https://arxiv.org/abs/1605.08803). Appendix Section.*
 
 The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks.
 
@@ -13,8 +14,6 @@ There is also an open call for a display of artworks incorporating machine learn
 ## Keynote Speakers
 
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
-
-Hi Luba :)
 
 List the names, and URL links to the people confirmed giving the talks.
 
@@ -44,4 +43,4 @@ Sander Dieleman
 
 Rebecca Fiebrink
 
-Luba Elliot
+Luba Elliott
