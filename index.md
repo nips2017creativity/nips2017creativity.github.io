@@ -14,19 +14,19 @@ The goal of this workshop is to bring together researchers and creative practiti
 
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (Director & Professor at The Swiss AI Lab IDSIA)
 
-Ian Goodfellow (Staff Research Scientist, Google Brain)
+[Ian Goodfellow](https://research.google.com/pubs/105214.html) (Staff Research Scientist, Google Brain)
 
-Rebecca Fiebrink (Senior Lecturer, Goldsmiths University of London)
+[Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) (Senior Lecturer, Goldsmiths University of London)
 
-Ahmed Elgammal (Director of the Art & Artificial Intelligence Lab, Rutgers University)
+[Ahmed Elgammal](https://www.cs.rutgers.edu/~elgammal/Home.html) (Director of the Art & Artificial Intelligence Lab, Rutgers University)
 
-Emily Denton (PhD student, Courant Institute at New York University)
+[Emily Denton](http://www.cs.nyu.edu/~denton/) (PhD student, Courant Institute at New York University)
 
 ## Important Dates
 
 RIGHT NOW!:
-Register for NIPS workshop attendance at https://nips.cc/Register2 if you think you will submit something. NIPS will sell out, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops.
-More information at https://nips.cc/Conferences/2017/Pricing
+Register for NIPS workshop attendance at [https://nips.cc/Register2](https://nips.cc/Register2) if you think you will submit something. NIPS will sell out, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops.
+More information at [https://nips.cc/Conferences/2017/Pricing](https://nips.cc/Conferences/2017/Pricing)
 
 3 November 2017: Submission date for position papers and art
 
@@ -83,7 +83,7 @@ Artists submitting work are strongly encouraged though not required to attend in
 
 If you have any questions, please contact us at nips2017creativity@gmail.com
 
-Workshop website: https://nips2017creativity.github.io  
+Workshop website: [https://nips2017creativity.github.io](https://nips2017creativity.github.io)
 
 ## Schedule
 
