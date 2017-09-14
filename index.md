@@ -36,9 +36,9 @@ The goal of this workshop is to bring together researchers and creative practiti
 
 ## Important Dates
 
-RIGHT NOW!:
-Register for NIPS workshop attendance at [https://nips.cc/Register2](https://nips.cc/Register2) if you think you will submit something. NIPS will sell out, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops.
-More information at [https://nips.cc/Conferences/2017/Pricing](https://nips.cc/Conferences/2017/Pricing)
+
+
+
 
 3 November 2017: Submission date for papers and art
 
@@ -60,7 +60,7 @@ We invite participants to submit 2-page papers in the NIPS format, to be submitt
 
 In the subject line of your email, please put:
 
-`NIPS Workshop: [Title]`
+`NIPS Workshop: [Paper title]`
 
 Topics may include (but are not limited to):
 - Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc
@@ -89,7 +89,7 @@ Art submissions will be reviewed by committee members, who will consider criteri
 - Originality of the work
 - Technical mastery
 - Artistic, literary, historical or philosophical references in your work
-- Clarity and coherence of message conveyed
+
 
 We will host an online gallery of accepted art submissions on the workshop website. While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
