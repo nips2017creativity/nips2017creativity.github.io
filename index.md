@@ -47,12 +47,12 @@ We invite participation in the form of position papers and/or artwork.
 We invite participants to submit 2-page position papers in the NIPS format, to be submitted to nips2017creativity@gmail.com. In the subject of your email, please put `"NIPS Workshop: [Title]`.
 
 Topics may include (but are not limited to):
--Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc.
--Quantitative or qualitative evaluation of machine learning techniques for creative work and design 
--Tools or techniques to improve usability or usefulness of machine learning for creative practitioners
--Descriptions, reflections, or case studies on the use of machine learning in the creation of a new art or design work
--Information-theoretic views of creativity
--Aesthetic, philosophical, social, and cultural considerations surrounding the use of machine learning in creative practice
+- Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc.
+- Quantitative or qualitative evaluation of machine learning techniques for creative work and design 
+- Tools or techniques to improve usability or usefulness of machine learning for creative practitioners
+- Descriptions, reflections, or case studies on the use of machine learning in the creation of a new art or design work
+- Information-theoretic views of creativity
+- Aesthetic, philosophical, social, and cultural considerations surrounding the use of machine learning in creative practice
 
 On the submission page, you may also indicate whether you would like to present a demo of your work during the workshop (if applicable).
 
@@ -61,19 +61,19 @@ Papers will be reviewed by committee members, and accepted authors will present 
 ### To Submit Artwork
 
 We welcome submission of artwork that has been created using machine learning (autonomously or with humans). We invite art in any medium, including but not limited to sound and music, image, video, dance, text, physical objects, food, etc… We will be able to accommodate work submitted in one of the following formats:
--Video 
--Audio (maximum 2 channel)
--Still image
--Website
--Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
+- Video 
+- Audio (maximum 2 channel)
+- Still image
+- Website
+- Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
 
 On the submission page (TODO: link to the submission form/page), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
 
 Art submissions will be reviewed by committee members, who will consider criteria such as:
--Originality of the work
--Technical mastery
--Artistic, literary, historical or philosophical references in your work
--Clarity and coherence of message conveyed
+- Originality of the work
+- Technical mastery
+- Artistic, literary, historical or philosophical references in your work
+- Clarity and coherence of message conveyed
 
 We will host an online gallery of accepted art submissions on the workshop website. While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
