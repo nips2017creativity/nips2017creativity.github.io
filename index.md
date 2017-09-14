@@ -7,7 +7,7 @@ In the last year, generative machine learning and machine creativity have gotten
 The goal of this workshop is to bring together researchers and creative practitioners interested in advancing art and music generation to present new work, foster collaborations and build networks. Workshops participants will include the organisers, a number of invited speakers (see below), authors of accepted papers, and creators of accepted artworks.
 
 <center>
-<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="100%"/>
+<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="90%"/>
 </center>
 
 ## Keynote Speakers
