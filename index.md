@@ -4,7 +4,7 @@
 
 In the last year, generative machine learning and machine creativity have gotten a lot of attention in the non-research world. At the same time there have been significant advances in generative models for media creation and for design. This one-day workshop explores several issues in the domain of generative models for creativity and design. We will look at algorithms for generation and creation of new media and new designs, engaging researchers building the next generation of generative models (GANs, RL, etc) and also from a more information-theoretic view of creativity (compression, entropy, etc). We will investigate the social and cultural impact of these new models, engaging researchers from HCI/UX communities. We’ll also hear from some of the artists and musicians who are adopting machine learning approaches like deep learning and reinforcement learning as part of their artistic process.  We’ll leave ample time for discussing both the important technical challenges of generative models for creativity and design, as well as the philosophical and cultural issues that surround this area of research.
 
-The goal of this workshop is to bring together researchers and creative practitioners interested in advancing art and music generation to present new work, foster collaborations and build networks. Workshops participants will include the organisers, a number of invited speakers (see below), authors of accepted position papers, and creators of accepted artworks.
+The goal of this workshop is to bring together researchers and creative practitioners interested in advancing art and music generation to present new work, foster collaborations and build networks. Workshops participants will include the organisers, a number of invited speakers (see below), authors of accepted papers, and creators of accepted artworks.
 
 <center>
 <img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="60%"/>
@@ -28,7 +28,7 @@ RIGHT NOW!:
 Register for NIPS workshop attendance at [https://nips.cc/Register2](https://nips.cc/Register2) if you think you will submit something. NIPS will sell out, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops.
 More information at [https://nips.cc/Conferences/2017/Pricing](https://nips.cc/Conferences/2017/Pricing)
 
-3 November 2017: Submission date for position papers and art
+3 November 2017: Submission date for papers and art
 
 10 November 2017: Acceptance notification submission papers and art
 
@@ -40,11 +40,11 @@ More information at [https://nips.cc/Conferences/2017/Pricing](https://nips.cc/C
 
 ## How to Participate
 
-We invite participation in the form of position papers and/or artwork.
+We invite participation in the form of papers and/or artwork.
 
-### To Submit a Position Paper
+### To Submit a Paper
 
-We invite participants to submit 2-page position papers in the NIPS format, to be submitted to `nips2017creativity@gmail.com`.
+We invite participants to submit 2-page papers in the NIPS format, to be submitted to `nips2017creativity@gmail.com`.
 
 In the subject line of your email, please put:
 `NIPS Workshop: [Title]`
@@ -59,7 +59,7 @@ Topics may include (but are not limited to):
 
 On the submission page, you may also indicate whether you would like to present a demo of your work during the workshop (if applicable).
 
-Papers will be reviewed by committee members, and accepted authors will present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted position paper must register for and attend the workshop. Accepted position papers will appear on the workshop website.
+Papers will be reviewed by committee members, and accepted authors will present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website.
 
 ### To Submit Artwork
 
