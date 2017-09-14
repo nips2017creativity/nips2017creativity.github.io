@@ -93,7 +93,7 @@ Art submissions will be reviewed by committee members, who will consider criteri
 
 We will host an online gallery of accepted art submissions on the workshop website. While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
-Artists submitting work are strongly encouraged though not required to attend in person. 
+Artists submitting work are encouraged though not required to attend in person. 
 
 ## Contact
 
