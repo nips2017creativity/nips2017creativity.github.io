@@ -12,15 +12,15 @@ The goal of this workshop is to bring together researchers and creative practiti
 
 ## Keynote Speakers
 
-[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (Director & Professor at The Swiss AI Lab IDSIA)
+[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/), Director & Professor at The Swiss AI Lab IDSIA
 
-[Ian Goodfellow](https://research.google.com/pubs/105214.html) (Staff Research Scientist, Google Brain)
+[Ian Goodfellow](https://research.google.com/pubs/105214.html), Staff Research Scientist, Google Brain
 
-[Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/) (Senior Lecturer, Goldsmiths University of London)
+[Rebecca Fiebrink](https://www.doc.gold.ac.uk/~mas01rf/homepage/), Senior Lecturer, Goldsmiths University of London
 
-[Ahmed Elgammal](https://www.cs.rutgers.edu/~elgammal/Home.html) (Director of the Art & Artificial Intelligence Lab, Rutgers University)
+[Ahmed Elgammal](https://www.cs.rutgers.edu/~elgammal/Home.html), Director of the Art & Artificial Intelligence Lab, Rutgers University
 
-[Emily Denton](http://www.cs.nyu.edu/~denton/) (PhD student, Courant Institute at New York University)
+[Emily Denton](http://www.cs.nyu.edu/~denton/), PhD student, Courant Institute at New York University
 
 ## Important Dates
 
