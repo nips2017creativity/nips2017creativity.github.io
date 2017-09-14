@@ -24,7 +24,9 @@ Emily Denton (PhD student, Courant Institute at New York University)
 
 ## Important Dates
 
-RIGHT NOW!: Register for NIPS workshop attendance at https://nips.cc/Register2 if you think you will submit something. NIPS will sell out, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops. (More information at https://nips.cc/Conferences/2017/Pricing)
+RIGHT NOW!:
+Register for NIPS workshop attendance at https://nips.cc/Register2 if you think you will submit something. NIPS will sell out, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops.
+More information at https://nips.cc/Conferences/2017/Pricing
 
 20 October 2017: Submission date for position papers and art
 
