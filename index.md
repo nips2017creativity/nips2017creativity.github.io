@@ -7,7 +7,7 @@ In the last year, generative machine learning and machine creativity have gotten
 The goal of this workshop is to bring together researchers and creative practitioners interested in advancing art and music generation to present new work, foster collaborations and build networks. Workshops participants will include the organisers, a number of invited speakers (see below), authors of accepted papers, and creators of accepted artworks.
 
 <center>
-<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="60%"/>
+<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="80%"/>
 </center>
 
 ## Keynote Speakers
@@ -44,9 +44,10 @@ We invite participation in the form of papers and/or artwork.
 
 ### To Submit a Paper
 
-We invite participants to submit 2-page papers in the NIPS format, to be submitted to `nips2017creativity@gmail.com`.
+We invite participants to submit 2-page papers in the NIPS format, to be submitted to: `nips2017creativity@gmail.com`
 
 In the subject line of your email, please put:
+
 `NIPS Workshop: [Title]`
 
 Topics may include (but are not limited to):
