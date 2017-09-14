@@ -1,14 +1,6 @@
 <img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/6a8b4bc2/assets/real_nvp.jpeg" width="100%"/>
 <i>Image credit: <a href="https://arxiv.org/abs/1605.08803">Density estimation using Real NVP</a></i>
 
-## Call for Papers and Artwork
-
-NIPS 2017 Workshop Machine Learning for Creativity and Design
-A one-day workshop at [NIPS 2017](https://nips.cc/), Long Beach, CA, USA.
-Fri Dec 8th 08:00 AM -- 06:30 PM
-
-## The Workshop
-
 In the last year, generative machine learning and machine creativity have gotten a lot of attention in the non-research world. At the same time there have been significant advances in generative models for media creation and for design. This one-day workshop explores several issues in the domain of generative models for creativity and design. We will look at algorithms for generation and creation of new media and new designs, engaging researchers building the next generation of generative models (GANs, RL, etc) and also from a more information-theoretic view of creativity (compression, entropy, etc). We will investigate the social and cultural impact of these new models, engaging researchers from HCI/UX communities. We’ll also hear from some of the artists and musicians who are adopting machine learning approaches like deep learning and reinforcement learning as part of their artistic process.  We’ll leave ample time for discussing both the important technical challenges of generative models for creativity and design, as well as the philosophical and cultural issues that surround this area of research.
 
 The goal of this workshop is to bring together researchers and creative practitioners interested in advancing art and music generation to present new work, foster collaborations and build networks. Workshops participants will include the organisers, a number of invited speakers (see below), authors of accepted papers, and creators of accepted artworks.
