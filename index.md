@@ -78,7 +78,9 @@ We will host an online gallery of accepted art submissions on the workshop websi
 Artists submitting work are strongly encouraged though not required to attend in person. 
 
 ## Contact
+
 If you have any questions, please contact us at nips2017creativity@gmail.com
+
 Workshop website: https://nips2017creativity.github.io  
 
 ## Schedule
