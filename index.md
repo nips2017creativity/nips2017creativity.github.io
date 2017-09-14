@@ -44,7 +44,7 @@ We invite participation in the form of position papers and/or artwork.
 
 ### To Submit a Position Paper
 
-We invite participants to submit 2-page position papers in the NIPS format, to be submitted to nips2017creativity@gmail.com. In the subject of your email, please put `NIPS Workshop: [Title]`.
+We invite participants to submit 2-page position papers in the NIPS format, to be submitted to `nips2017creativity@gmail.com`. In the subject line of your email, please put `NIPS Workshop: [Title]`.
 
 Topics may include (but are not limited to):
 - Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc.
@@ -81,7 +81,7 @@ Artists submitting work are strongly encouraged though not required to attend in
 
 ## Contact
 
-If you have any questions, please contact us at nips2017creativity@gmail.com
+If you have any questions, please contact us at `nips2017creativity@gmail.com`.
 
 Workshop website: [https://nips2017creativity.github.io](https://nips2017creativity.github.io)
 
