@@ -36,10 +36,6 @@ The goal of this workshop is to bring together researchers and creative practiti
 
 ## Important Dates
 
-
-
-
-
 3 November 2017: Submission date for papers and art
 
 10 November 2017: Acceptance notification submission papers and art
@@ -83,7 +79,7 @@ We welcome submission of artwork that has been created using machine learning (a
 - Website
 - Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
 
-On this submission [page](http://nips2017creativity.github.io) (*submission page not done yet, will be ready soon*), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
+On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSdN3TzfqreAgKWvV3pvps1eSJ0izCIrWvqMogQfXdydHkm4EA/viewform?c=0&w=1&usp=mail_form_link), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
 
 Art submissions will be reviewed by committee members, who will consider criteria such as:
 - Originality of the work
