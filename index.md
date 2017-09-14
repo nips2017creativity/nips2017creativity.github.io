@@ -14,6 +14,8 @@ There is also an open call for a display of artworks incorporating machine learn
 
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
 
+Hi Luba :)
+
 List the names, and URL links to the people confirmed giving the talks.
 
 ## Call for Abstracts
