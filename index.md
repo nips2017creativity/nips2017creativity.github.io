@@ -71,7 +71,7 @@ We welcome submission of artwork that has been created using machine learning (a
 - Website
 - Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
 
-On the submission page (TODO: link to the submission form/page), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
+On this submission [page](http://nips2017creativity.github.io) (*submission page not done yet, will be ready soon*), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
 
 Art submissions will be reviewed by committee members, who will consider criteria such as:
 - Originality of the work
