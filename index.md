@@ -81,10 +81,10 @@ We welcome submission of artwork that has been created using machine learning (a
 
 On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSdN3TzfqreAgKWvV3pvps1eSJ0izCIrWvqMogQfXdydHkm4EA/viewform?c=0&w=1&usp=mail_form_link), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
 
-Art submissions will be reviewed by committee members, who will consider criteria such as:
-- Originality of the work
-- Technical mastery
-- Artistic, literary, historical or philosophical references in your work
+Art submissions will be reviewed by committee members.
+
+
+
 
 
 We will host an online gallery of accepted art submissions on the workshop website. While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
