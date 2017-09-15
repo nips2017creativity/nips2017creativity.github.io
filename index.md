@@ -22,7 +22,7 @@ The goal of this workshop is to bring together researchers and creative practiti
 
 3 November 2017: Submission date for papers and art
 
-10 November 2017: Acceptance notification submission papers and art
+10 November 2017: Acceptance notification for papers and art submissions
 
 28 November 2017:  Deadline for final copy of accepted papers
 
