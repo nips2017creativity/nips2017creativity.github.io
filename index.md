@@ -20,7 +20,7 @@ The goal of this workshop is to bring together researchers and creative practiti
 
 ## Important Dates
 
-RIGHT NOW: Register for NIPS workshop attendance [here](https://nips.cc/Register2) if you think you will submit something. NIPS will sell out shortly, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops. More information on [NIPS website] (https://nips.cc/Conferences/2017/Pricing)
+RIGHT NOW: Register for NIPS workshop attendance [here](https://nips.cc/Register2) if you think you will submit something. NIPS will sell out shortly, and you can receive a refund if you end up not coming and you cancel before Nov. 16, 2017, 4:59 p.m. Pacific Time. You do not need to register for the full conference in order to register for the workshops. More information on [NIPS website](https://nips.cc/Conferences/2017/Pricing).
 
 3 November 2017: Submission date for papers and art
 
