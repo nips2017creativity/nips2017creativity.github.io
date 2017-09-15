@@ -103,14 +103,14 @@ TBD
 
 ## Organisers
 
-Douglas Eck, Google Brain
+[Douglas Eck](https://twitter.com/douglas_eck), Google Brain
 
-David Ha, Google Brain
+[David Ha](https://twitter.com/hardmaru), Google Brain
 
-S. M. Ali Eslami, DeepMind
+[S. M. Ali Eslami](https://twitter.com/arkitus), DeepMind
 
-Sander Dieleman, DeepMind
+[Sander Dieleman](https://twitter.com/sedielem), DeepMind
 
-Rebecca Fiebrink, Goldsmiths University of London
+[Rebecca Fiebrink](https://twitter.com/RebeccaFiebrink), Goldsmiths University of London
 
-Luba Elliott, AI Curator
+[Luba Elliott](https://twitter.com/elluba), AI Curator
