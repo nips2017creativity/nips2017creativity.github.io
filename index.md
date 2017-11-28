@@ -89,6 +89,26 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 |---------|--------|
 | 8:30 AM | Welcome and Introduction  |
 | 8:45 AM | Invited Talk<br/>*Jürgen Schmidhuber* |
+| 9:15 AM | Invited Talk<br/>*Emily Denton* |
+| 9:45 AM | Invited Talk<br/>*Rebecca Fiebrink* |
+| 10:15 AM | GANosaic - Mosaic Creation with Generative Texture Manifolds<br/>*Nikolay Jetchev, Urs Bergmann, Calvin Seward* |
+| 10:20 AM | TopoSketch: Drawing in Latent Space<br/>*Ian Loh, Tom White* |
+| 10:25 AM | Input parameterization for DeepDream<br/>*Alexander Mordvintsev, Chris Olah* |
+| 10:30 AM | Art / Coffee Break |
+| 11:00 AM | Invited Talk<br/>*Ian Goodfellow* |
+| 11:30 AM | Improvised Comedy as a Turing Test<br/>*Kory Mathewson, Piotr Mirowski* |
+| 12:00 PM | Lunch |
+| 1:00 PM | Invited Talk<br/>*Ahmed Elgammal* |
+| 1:30 PM | Hierarchical Variational Autoencoders for Music<br/>*Adam Roberts, Jesse Engel* |
+| 2:00 PM | Lexical preferences in an automated story writing system<br/>*Melissa Roemmele, Andrew S. Gordon* |
+| 2:30 PM | ObamaNet: Photo-realistic lip-sync from text<br/>*Rithesh Kumar, Jose Sotelo, Kundan Kumar, Alexandre de Brébisson* |
+| 3:00 PM | Art / Coffee Break |
+| 3:30 PM | Towards the High-quality Anime Characters Generation with Generative Adversarial Networks<br/>*Yanghua Jin, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu* |
+| 3:35 PM | Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks<br/>*Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu* |
+| 3:40 PM | Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks<br/>*Anna Fuste, Judith Amores* |
+| 3:45 PM | Open Discussion |
+| 4:15 PM | Poster Session |
+| 5:00 PM | End of Workshop |
 
 ## Organisers
 
