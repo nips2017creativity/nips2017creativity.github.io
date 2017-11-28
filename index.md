@@ -85,7 +85,11 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 
 ## Schedule
 
-TBD
+| Time    | Event  |
+|---------|--------|
+| 8:30 AM | Welcome and Introduction  |
+| 8:45 AM | Invited Talk |
+|         | *Jürgen Schmidhuber* |
 
 ## Organisers
 
