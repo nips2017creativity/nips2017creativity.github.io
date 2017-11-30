@@ -131,7 +131,7 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 9. Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks
    * *Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu*
 10. Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks
-   * *Anna Fuste, Judith Amores*
+    * *Anna Fuste, Judith Amores*
 
 ## Organisers
 
