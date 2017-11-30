@@ -112,26 +112,28 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 
 ## Accepted Papers
 
-1. GANosaic - Mosaic Creation with Generative Texture Manifolds
+## Accepted Papers
+
+1. [GANosaic - Mosaic Creation with Generative Texture Manifolds](doc/GANosaic.pdf)
    * *Nikolay Jetchev, Urs Bergmann, Calvin Seward*
-2. TopoSketch: Drawing in Latent Space
+2. [TopoSketch: Drawing in Latent Space](doc/TopoSketch.pdf)
    * *Ian Loh, Tom White*
 3. Input parameterization for DeepDream
    * *Alexander Mordvintsev, Chris Olah*
-4. Improvised Comedy as a Turing Test
+4. [Improvised Comedy as a Turing Test](doc/Improvised_Comedy_as_a_Turing_Test.pdf)
    * *Kory Mathewson, Piotr Mirowski*
-5. Hierarchical Variational Autoencoders for Music
+5. [Hierarchical Variational Autoencoders for Music](doc/Hierarchical_Variational_Autoencoders_for_Music.pdf)
    * *Adam Roberts, Jesse Engel*
-6. Lexical preferences in an automated story writing system
+6. [Lexical Preferences in an Automated Story Writing System](doc/Automated_Story_Writing_System.pdf)
    * *Melissa Roemmele, Andrew S. Gordon*
-7. ObamaNet: Photo-realistic lip-sync from text
-   * *Rithesh Kumar, Jose Sotelo, Kundan Kumar, Alexandre de Brébisson*
-8. Towards the High-quality Anime Characters Generation with Generative Adversarial Networks
+7. [ObamaNet: Photo-realistic Lip-sync from Text](doc/ObamaNet.pdf)
+   * *Rithesh Kumar, Jose Sotelo, Kundan Kumar, Alexandre de Brébisson, Yoshua Bengio*
+8. [Towards the High-quality Anime Characters Generation with Generative Adversarial Networks](doc/High_Quality_Anime.pdf)
    * *Yanghua Jin, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu*
-9. Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks
+9. [Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks](doc/Crowd_Sourcing_Clothes_Design.pdf)
    * *Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu*
-10. Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks
-    * *Anna Fuste, Judith Amores*
+10. [Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks](doc/Paper_Cubes.pdf)
+   * *Anna Fuste, Judith Amores*
 
 ## Organisers
 
