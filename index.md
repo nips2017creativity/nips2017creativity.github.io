@@ -112,26 +112,27 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 
 ## Accepted Papers
 
-- GANosaic - Mosaic Creation with Generative Texture Manifolds
+1. GANosaic - Mosaic Creation with Generative Texture Manifolds
    * *Nikolay Jetchev, Urs Bergmann, Calvin Seward*
-- TopoSketch: Drawing in Latent Space
+2. TopoSketch: Drawing in Latent Space
    * *Ian Loh, Tom White*
-- Input parameterization for DeepDream
+3. Input parameterization for DeepDream
    * *Alexander Mordvintsev, Chris Olah*
-- Improvised Comedy as a Turing Test
+4. Improvised Comedy as a Turing Test
    * *Kory Mathewson, Piotr Mirowski*
-- Hierarchical Variational Autoencoders for Music
+5. Hierarchical Variational Autoencoders for Music
    * *Adam Roberts, Jesse Engel*
-- Lexical preferences in an automated story writing system
+6. Lexical preferences in an automated story writing system
    * *Melissa Roemmele, Andrew S. Gordon*
-- ObamaNet: Photo-realistic lip-sync from text
+7. ObamaNet: Photo-realistic lip-sync from text
    * *Rithesh Kumar, Jose Sotelo, Kundan Kumar, Alexandre de Brébisson*
-- Towards the High-quality Anime Characters Generation with Generative Adversarial Networks
+8. Towards the High-quality Anime Characters Generation with Generative Adversarial Networks
    * *Yanghua Jin, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu*
-- Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks
+9. Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks
    * *Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu*
-- Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks
+10. Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks
    * *Anna Fuste, Judith Amores*
+
 
 ## Organisers
 
