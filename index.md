@@ -112,8 +112,6 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 
 ## Accepted Papers
 
-## Accepted Papers
-
 1. [GANosaic - Mosaic Creation with Generative Texture Manifolds](doc/GANosaic.pdf)
    * *Nikolay Jetchev, Urs Bergmann, Calvin Seward*
 2. [TopoSketch: Drawing in Latent Space](doc/TopoSketch.pdf)
@@ -134,6 +132,50 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
    * *Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu*
 10. [Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks](doc/Paper_Cubes.pdf)
     * *Anna Fuste, Judith Amores*
+11. [AI for Fragrance Design](doc/AI_for_Fragrance_Design.pdf)
+    * *Richard Goodwin, Joana Maria, Payel Das, Raya Horesh, Richard Segal, Jing Fu, Christian Harris*
+12. [ASCII Art Synthesis with Convolutional Networks](doc/ASCII_Art_Synthesis.pdf)
+    * *Osamu Akiyama*
+13. [Combinatorial Meta Search](doc/Combinatorial_Meta_Search.pdf)
+    * *Matthew Guzdial, Mark O. Riedl*
+14. [Consistent Comic Colorization with Pixel-wise Background Classification](doc/Consistent_Comic_Colorization.pdf)
+    * *Sungmin Kang, Jaegul Choo, Jaehyuk Chang*
+15. [Compositional Pattern Producing GAN](doc/CPPNGAN.pdf)
+    * *Luke Metz, Ishaan Gulrajani*
+16. [Deep Interactive Evolutionary Computation](doc/Deep_Interactive_Evolutionary_Computation.pdf)
+    * *Philip Bontrager, Wending Lin, Sebastian Risi, Julian Togelius*
+17. [Deep Learning for Identifying Potential Conceptual Shifts for Co-creative Drawing](doc/Deep_Learning_Conceptual_Shifts.pdf)
+    * *Pegah Karimi, Nicholas Davis, Kazjon Grace, Mary Lou Maher*
+18. [Disentangled Representations of Style and Content for Visual Art with Generative Adversarial Networks](doc/Disentangled_Representations.pdf)
+    * *Chris Donahue, Julian McAuley*
+19. [Repeating and Mistranslating: The Associations of GANs in an Art Context](doc/GANs_Art_Context.pdf)
+    * *Anna Ridler*
+20. [Generating Black Metal and Math Rock: Beyond Bach, Beethoven, and Beatles](doc/Generating_Black_Metal.pdf)
+    * *Zack Zukowski, CJ Carr*
+21. [Generative Embedded Mapping Systems for Design](doc/Generative_Embedded_Design.pdf)
+    * *Tom White, Phoebe Zeller, and Hannah Dockerty*
+22. [Imaginary Soundscape: Cross-Modal Approach to Generate Pseudo Sound Environments](doc/Imaginary_Soundscape.pdf)
+    * *Yuma Kajihara, Shoya Dozono, Nao Tokui*
+23. [Improvisational Storytelling Agents](doc/Improvisational_Agents.pdf)
+    * *Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, Shruti Singh, Brent Harrison, Murtaza Dhuliawala, Pradyumna Tambwekar, Animesh Mehta, Richa Arora, Nathan Dass, Chris Purdy, Mark O. Riedl*
+24. [Learning to Create Piano Performances](doc/Learning_Piano.pdf)
+    * *Sageev Oore, Ian Simon*
+25. [Neural Style Transfer for Audio Spectrograms](doc/Neural_Style_Spectograms.pdf)
+    * *Prateek Verma, Julius O. Smith*
+26. [Neural Translation of Musical Style](doc/Neural_Musical_Style.pdf)
+    * *Iman Malik, Carl Henrik Ek*
+27. [Sequential Line Search for Generative Adversarial Networks](doc/Sequential_Search.pdf)
+    * *Masahiro Kazama, Viviane Takahashi*
+28. [SocialML: Machine Learning for Social Media Video Creators](doc/SocialML.pdf)
+    * *Tomasz Trzcinskia, Adam Bielskib, Pawel Cyrtab, Matthew Zak*
+29. [SOMNIA: Self-Organizing Maps as Neural Interactive Art](doc/SOMNIA.pdf)
+    * *Byron V. Galbraith*
+30. [The Emotional GAN: Priming Adversarial Generation of Art with Emotion](doc/The_Emotional_GAN.pdf)
+    * *David Alvarez-Melis, Judith Amores*
+31. [Time Domain Neural Audio Style Transfer](doc/Time_Domain_Neural_Transfer.pdf)
+    * *Parag K. Mital*
+32. [Algorithmic Composition of Polyphonic Music with the WaveCRF](doc/WaveCRF.pdf)
+    * *Umut Güçlü, Yagmur Güçlütürk, Luca Ambrogioni, Eric Maris, Rob van Lier, Marcel van Gerven*
 
 ## Organisers
 
