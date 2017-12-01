@@ -104,7 +104,7 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 | 2:30 PM | ObamaNet: Photo-realistic lip-sync from text<br/>*Rithesh Kumar, Jose Sotelo, Kundan Kumar, Alexandre de Brébisson* |
 | 3:00 PM | Art / Coffee Break |
 | 3:30 PM | Towards the High-quality Anime Characters Generation with Generative Adversarial Networks<br/>*Yanghua Jin, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu* |
-| 3:35 PM | Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks<br/>*Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu* |
+| 3:35 PM | Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks<br/>*Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu, Yoichi Ochiai* |
 | 3:40 PM | Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks<br/>*Anna Fuste, Judith Amores* |
 | 3:45 PM | Open Discussion |
 | 4:15 PM | Poster Session |
@@ -129,7 +129,7 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 8. [Towards the High-quality Anime Characters Generation with Generative Adversarial Networks](doc/High_Quality_Anime.pdf)
    * *Yanghua Jin, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu*
 9. [Crowd Sourcing Clothes Design Directed by Adversarial Neural Networks](doc/Crowd_Sourcing_Clothes_Design.pdf)
-   * *Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu*
+   * *Hiroyuki Osone, Natsumi Kato, Daitetsu Sato, Naoya Muramatsu, Yoichi Ochiai*
 10. [Paper Cubes: Evolving 3D characters in Augmented Reality using Recurrent Neural Networks](doc/Paper_Cubes.pdf)
     * *Anna Fuste, Judith Amores*
 11. [AI for Fragrance Design](doc/AI_for_Fragrance_Design.pdf)
