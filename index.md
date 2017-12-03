@@ -167,7 +167,7 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
 27. [Sequential Line Search for Generative Adversarial Networks](doc/Sequential_Search.pdf)
     * *Masahiro Kazama, Viviane Takahashi*
 28. [SocialML: Machine Learning for Social Media Video Creators](doc/SocialML.pdf)
-    * *Tomasz Trzcinskia, Adam Bielskib, Pawel Cyrtab, Matthew Zak*
+    * *Tomasz Trzcinski, Adam Bielski, Pawel Cyrta, Matthew Zak*
 29. [SOMNIA: Self-Organizing Maps as Neural Interactive Art](doc/SOMNIA.pdf)
     * *Byron V. Galbraith*
 30. [The Emotional GAN: Priming Adversarial Generation of Art with Emotion](doc/The_Emotional_GAN.pdf)
