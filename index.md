@@ -1,6 +1,6 @@
 ## NIPS 2017 Art Gallery ##
 
-See [link](http://nips4creativity.com/paper-demos/) for accepted art submissions!
+See [link](http://nips4creativity.com/) for accepted art submissions, [music](http://nips4creativity.com/music/) submissions, and [demos](http://nips4creativity.com/paper-demos/) for papers!
 
 ## Location: Hyatt Hotel, Seaview Ballroom ##
 
