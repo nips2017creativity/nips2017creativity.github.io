@@ -122,7 +122,7 @@ Workshop website: [https://nips2017creativity.github.io](https://nips2017creativ
    * *Nikolay Jetchev, Urs Bergmann, Calvin Seward*
 2. [TopoSketch: Drawing in Latent Space](doc/TopoSketch.pdf)
    * *Ian Loh, Tom White*
-3. Input parameterization for DeepDream
+3. [Input parameterization for DeepDream](https://www.youtube.com/watch?v=T0HBD6sUUss)
    * *Alexander Mordvintsev, Chris Olah*
 4. [Improvised Comedy as a Turing Test](doc/Improvised_Comedy_as_a_Turing_Test.pdf)
    * *Kory Mathewson, Piotr Mirowski*
